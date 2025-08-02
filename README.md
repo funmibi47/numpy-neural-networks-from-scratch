@@ -40,7 +40,7 @@ Predicts if a customer will make a purchase based on marketing interaction data.
 - Layers: 1 hidden layer
 - Loss: Binary Cross Entropy
 
--> [View Project Folder](./[customer-purchase-prediction](https://github.com/funmibi47/numpy-neural-networks-from-scratch/blob/main/Numpy%20Neural%20Network/customer_purchase_predict/customer_purchase_predict.ipynb))
+-> [View Project Folder]([./[customer-purchase-prediction](https://github.com/funmibi47/numpy-neural-networks-from-scratch/blob/main/Numpy%20Neural%20Network/customer_purchase_predict/customer_purchase_predict.ipynb)](https://github.com/funmibi47/numpy-neural-networks-from-scratch/blob/main/Numpy%20Neural%20Network/customer_purchase_predict/customer_purchase_predict.ipynb))
 
 ---
 
