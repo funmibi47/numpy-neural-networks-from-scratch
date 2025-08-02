@@ -1,27 +1,70 @@
-# Mini Neural Network from Scratch 
+#  Numpy Neural Network Projects
 
-###  Goal:
-Build a simple 1 layer neural network using NumPy to predict student exam performance.
+This repository contains beginner friendly neural network projects built entirely from scratch using NumPy. The goal is to understand the core concepts of forward propagation, backpropagation and weight updates, without using machine learning libraries like TensorFlow or PyTorch.
 
-###  Input:
-- Hours studied
-- Hours slept
+Each project includes clear explanations, inline calculations and visual structure to help deepen understanding.
 
-###  Process:
-1. Multiply input vector with weights (dot product)
-2. Apply sigmoid activation
-3. Output: predicted chance of passing
+---
 
-###  Math Concepts:
-- Vectors: input + weights
-- Dot Product: weighted sum
-- Matrix Multiplication: hidden layers
-- Sigmoid: non-linearity
-- Loss (MSE): prediction error
+##  Projects Included:
 
-###  Example:
-Input: [5 hours studied, 6 hours slept]  
-Prediction: **0.92** -> High chance of passing
+###  1. Product Price Prediction
+Predicts the price of a product based on numerical features using a simple neural network with one hidden layer.
 
-###  Tools:
-- NumPy only
+- Input: Number of features (e.g. cost, material rating)
+- Output: Predicted price
+- Layers: 1 hidden layer
+- Loss: Mean Squared Error
+
+-> [View Project Folder](./product-price-prediction)
+
+---
+
+###  2. Will the Student Pass?
+Predicts whether a student will pass based on how many hours they studied and slept.
+
+- Input: Hours studied, Hours slept
+- Output: Binary (Pass or Fail)
+- Layers: No hidden layer (single layer network)
+- Loss: Binary Cross Entropy
+
+-> [View Project Folder](./school-pass-prediction)
+
+---
+
+###  3. Will the Customer Buy?
+Predicts if a customer will make a purchase based on marketing interaction data.
+
+- Input: Age, Estimated Salary
+- Output: Binary classification (Buy or Not)
+- Layers: 1 hidden layer
+- Loss: Binary Cross Entropy
+
+-> [View Project Folder](./customer-purchase-prediction)
+
+---
+
+##  Tools Used
+- Python
+- NumPy
+- Jupyter Notebook
+- Markdown (for explanation)
+- Math (manual calculations for transparency)
+
+---
+
+##  What I Learned
+- How forward and backward propagation work under the hood
+- Manual weight initialization and updates
+- Understanding of activation functions and gradients
+- Interpreting neural networks without using ML libraries
+
+---
+
+##  Connect with Me
+Feel free to explore and give feedback!
+
+- [GitHub Profile](https://github.com/funmibi47)
+- [LinkedIn](http://www.linkedin.com/in/funmibi-iyanda-018bb81b0)
+
+---
