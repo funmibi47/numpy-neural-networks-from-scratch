@@ -66,6 +66,6 @@ Feel free to explore and give feedback!
 
 - [GitHub Profile](https://github.com/funmibi47)
 - [LinkedIn](http://www.linkedin.com/in/funmibi-iyanda-018bb81b0)
-- [View the Flashcards PDF](./linear_algebra_flashcards.pdf)
+- [View the Flashcards PDF](./Numpy%20Neural%20Network/linear_algebra_flashcards.pdf)
 
 ---
