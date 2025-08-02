@@ -16,7 +16,7 @@ Predicts the price of a product based on numerical features using a simple neura
 - Layers: 1 hidden layer
 - Loss: Mean Squared Error
 
--> [View Project Folder](./product-price-prediction)
+-> [View Project Folder](./Numpy%20Neural%20Network/product_price_predict/product_price_predict.ipynb)
 
 ---
 
@@ -28,7 +28,7 @@ Predicts whether a student will pass based on how many hours they studied and sl
 - Layers: No hidden layer (single layer network)
 - Loss: Binary Cross Entropy
 
--> [View Project Folder](./school-pass-prediction)
+-> [View Project Folder](./Numpy%20Neural%20Network/school_pass_predict/school_pass_predict.ipynb)
 
 ---
 
@@ -66,5 +66,6 @@ Feel free to explore and give feedback!
 
 - [GitHub Profile](https://github.com/funmibi47)
 - [LinkedIn](http://www.linkedin.com/in/funmibi-iyanda-018bb81b0)
+- [View the Flashcards PDF](./linear_algebra_flashcards.pdf)
 
 ---
